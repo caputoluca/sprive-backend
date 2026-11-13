@@ -2,8 +2,8 @@
 
 This repository holds the backend code that powers all of my Sprive applications:
 
-- [Business Carbon management software](https://github.com/lucspt/sprive-web)
-- [Mobile carbon footprint tracker](https://github.com/lucspt/sprive-mobile)
+- [Business Carbon management software](https://github.com/caputoluca/sprive-web)
+- [Mobile carbon footprint tracker](https://github.com/caputoluca/sprive-mobile)
 
 
 All these apps were created through my ever-growing passion for the climate! Let me know what you think. 
@@ -14,4 +14,4 @@ Note: All emissions calculations provided by this backend, and therefore the app
 Built with:
   - Python (Flask)
 
-Built by [Luca Captuto](https://github.com/lucspt).
+Built by [Luca Caputo](https://github.com/caputoluca).
